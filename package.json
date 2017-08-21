@@ -1,0 +1,23 @@
+{
+  "name": "simple_todo_api_flask",
+  "version": "1.0.0",
+  "description": "simple todo api built with flask microframework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-johia/todo-flask-api.git"
+  },
+  "keywords": [
+    "flask",
+    "python"
+  ],
+  "author": "Johnbosco Ohia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-johia/todo-flask-api/issues"
+  },
+  "homepage": "https://github.com/andela-johia/todo-flask-api#readme"
+}
